@@ -37,7 +37,7 @@ Tab:AddTextbox({
 })
 
 Tab:AddTextbox({
-	Name = "Give fish ",
+	Name = "Give rebirth ",
 	Default = "",
     --Numeric = true,
     --Finsihed = true,
